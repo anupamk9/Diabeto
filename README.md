@@ -205,6 +205,16 @@ Using OneAPI, developers can build predictive models for diabetes that can analy
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
 </picture> The Team:</h2></div>
 <img src="https://user-images.githubusercontent.com/104119642/225591739-0fe7dc51-086d-4ac4-941e-1a17c48ab793.png">
+### Credit goes to these people: ✨
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/aresgodd/Diabeto/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aresgodd/Diabeto" />
+</a>
+		</td>
+	</tr>
+</table>
 
 <br></div>
  
