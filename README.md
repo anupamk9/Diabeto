@@ -218,7 +218,7 @@ Using OneAPI, developers can build predictive models for diabetes that can analy
 
 <br></div>
  
-<br>
+
  <h2>
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.webp" type="image/webp">
