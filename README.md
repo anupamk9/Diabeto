@@ -1,6 +1,3 @@
-[🤖⚙️ Machine Learning Recommentation System For Diabetes Prediction using oneAPI ⚙️🤖  (Demo Video Link ▶️ - Click Here ⬅️ )]()
-
-
 
 <a href="https://github.com/aresgodd/Diabeto">
  <img src="https://user-images.githubusercontent.com/104119642/225565032-ba558a4a-6afe-4f63-b1d9-f4b6cca710fa.png">
@@ -233,3 +230,5 @@ Using OneAPI, developers can build predictive models for diabetes that can analy
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="12" height="12">
 </picture> in India | Adhiparasakthi Engineering College </h5>
+ 
+ [🤖⚙️ Machine Learning Recommentation System For Diabetes Prediction using oneAPI ⚙️🤖  (Demo Video Link ▶️ - Click Here ⬅️ )]()
