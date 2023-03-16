@@ -159,26 +159,7 @@ Thirdly, businesses in the food and beverage industry could also use a diabetes 
 <div align="center">
  <img src="https://user-images.githubusercontent.com/104119642/225573495-726c4c47-e7f1-49a1-84e1-0ba51cf4e743.jpg" width="900" >
  </div>
-
-
- <h2><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
-</picture> Is it an Opportunity [ By Public Review ] :</h2></div>
-<picture>&emsp;&emsp;&emsp;
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
-</picture><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
-</picture><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
-</picture><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
-</picture>
-<br></div><br>
+ 
 
 <br>
 
@@ -210,9 +191,15 @@ Using OneAPI, developers can build predictive models for diabetes that can analy
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> 
 
 
-  
+ 
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
+</picture> The Team:</h2></div>
+<img src="https://user-images.githubusercontent.com/104119642/225591739-0fe7dc51-086d-4ac4-941e-1a17c48ab793.png">
 
-
+<br></div><br>
+ 
 <br>
  <h2>
   <picture>
@@ -220,13 +207,8 @@ Using OneAPI, developers can build predictive models for diabetes that can analy
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.gif" alt="🙏" width="32" height="32">
 </picture> Contribution :</h2>
 
-
-
 ![](https://svgur.com/i/nQ2.svg)
-
-
-<!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<br>
 
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
