@@ -199,7 +199,17 @@ Using OneAPI, developers can build predictive models for diabetes that can analy
   <h2> <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44d_1f3fd/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44d_1f3fd/512.gif" alt="👍" width="32" height="32">
-</picture> Completed Tasks : </h2>
+</picture> 👩‍💻 Technology Stack: </h2>
+
+#### **Tools**
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> 
+<img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> 
+
+
   
 
 
