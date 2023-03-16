@@ -3,7 +3,7 @@
 
 
 <a href="https://github.com/aresgodd/Diabeto">
- <img src="https://user-images.githubusercontent.com/104119642/225562696-72eabadd-ce61-4788-aafa-82bfbe01e5c5.png">
+ <img src="https://user-images.githubusercontent.com/104119642/225565032-ba558a4a-6afe-4f63-b1d9-f4b6cca710fa.png">
 </a>
 
 
