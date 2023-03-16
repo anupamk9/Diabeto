@@ -171,9 +171,18 @@ Using OneAPI, developers can build predictive models for diabetes that can analy
 </picture> Code & Snippet :</h2></div>
 
 <ul>
-<img src="https://user-images.githubusercontent.com/104119642/225603015-c85de6c9-b75a-400b-8a4e-1d4dfbf51fe2.png" width="900" height="400">
-<img src="https://user-images.githubusercontent.com/104119642/225603013-3e83fe02-6dd2-4655-ac00-69f7dc06d8aa.png" width="900" height="400">
-<img src="https://user-images.githubusercontent.com/104119642/225603345-ac6461e3-804e-412d-85bd-601981a0a7e9.png" width="900" height="400">
+<img src="https://user-images.githubusercontent.com/104119642/225603015-c85de6c9-b75a-400b-8a4e-1d4dfbf51fe2.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/104119642/225603013-3e83fe02-6dd2-4655-ac00-69f7dc06d8aa.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/104119642/225603345-ac6461e3-804e-412d-85bd-601981a0a7e9.png" width="600" height="300">
+<img src="https://user-images.githubusercontent.com/104119642/225607120-430e0f62-5409-4ced-9130-37447fd16459.png" width="600" height="300"> 
+ <img src="https://user-images.githubusercontent.com/104119642/225607115-6c05dd01-d1cc-46ba-bd32-a412a4a7c148.png" width="600" height="300"> 
+ <img src="https://user-images.githubusercontent.com/104119642/225607124-56947f77-43b0-46b3-9876-dbcdf9fcfe56.png" width="600" height="300"> 
+ <img src="https://user-images.githubusercontent.com/104119642/225607060-6788e399-ee80-4ea7-b572-56738ad02cb0.png" width="600" height="300"> 
+ <img src="https://user-images.githubusercontent.com/104119642/225607081-5a540e3f-902c-424d-bc9f-c4d43c0e5bb3.png" width="600" height="300"> 
+ <img src="https://user-images.githubusercontent.com/104119642/225607087-79c7d60f-61e1-409a-8aed-ff016079a167.png" width="600" height="300"> 
+ <img src="https://user-images.githubusercontent.com/104119642/225607097-c96aff9a-2475-4ac4-97f3-3737da9c29c1.png" width="600" height="300"> 
+ <img src="https://user-images.githubusercontent.com/104119642/225607105-4bbca1de-047c-4708-b53c-b67f96976d0a.png" width="600" height="300"> 
+ 
 </ul><br></div><br>
 
   <h2> <picture>
