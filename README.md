@@ -48,7 +48,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="⚛🧑🏻‍🏭" width="32" height="32">
 </picture> Introduction :</h2><i>
 <ul>
-<li> </li>
+<li>This project is designed to predict the likelihood of a person developing diabetes based on a number of risk factors. The goal of the project is to help identify individuals who are at high risk for developing the disease so that preventive measures can be taken early on to minimize the likelihood of complication </li>
   </ul>
 <br>
 
@@ -60,7 +60,7 @@
 <ul>
 <li> Diabetes is a chronic disease that affects the body's ability to produce or use insulin, a hormone that regulates blood sugar levels. There are two main types of diabetes: type 1 diabetes, which is usually diagnosed in childhood and is caused by the immune system attacking the cells that produce insulin, and type 2 diabetes, which is usually diagnosed in adulthood and is caused by a combination of genetic and lifestyle factors.
 
-The effects of diabetes can be serious and long-lasting. High blood sugar levels can damage the blood vessels, nerves, and organs, leading to a range of health complications. Some of the effects of diabetes include:
+The effects of diabetes can be serious and long-lasting. High blood sugar levels can damage the blood vessels, nerves, and organs, leading to a range of health complications.
 
   </li>
   </ul>
@@ -192,21 +192,6 @@ Using OneAPI, developers can build predictive models for diabetes that can analy
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44d_1f3fd/512.gif" alt="👍" width="32" height="32">
 </picture> Completed Tasks : </h2>
   
-- [x] Brainstorm and Ideation <br>
-- [x] Problem Statement <br>
-- [x] Empathy Map <br>
-- [x] Assignment - 1 <br>
-- [x] Assignment - 2  <br>
-- [x] Assignment - 3  <br>
-- [x] Assignment - 4 <br>
-
-- [x] Proposed Solution <br>
-- [x] Proposed Solution fit <br>
-- [x] Solution Architecture <br>
-- [x] Data Flow Diagram <br>
-- [x] Solution Requirements <br>
-- [x] Technology Stack <br>
-- [x] Customer Journey Map <br>
 
 
 <br>
