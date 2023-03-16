@@ -1,4 +1,4 @@
-[🤖⚙️ Machine Learning Recommentation System For Diabetes Prediction using oneAPI ⚙️🤖  (Demo Video Link ▶️ - Click Here ⬅️ )] (https://www.youtube.com/watch?v=frnCRmCW3Fc)
+[🤖⚙️ Machine Learning Recommentation System For Diabetes Prediction using oneAPI ⚙️🤖  (Demo Video Link ▶️ - Click Here ⬅️ )] ()
 
 
 
