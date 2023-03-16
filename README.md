@@ -7,7 +7,7 @@
 </a>
 
 
-<h2 align="center">Machine Learning Recommentation System For Diabetes Prediction using oneAPI<a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731" target="_blank"><picture>
+<h2 align="center">Machine Learning Recommentation System For Diabetes Prediction using oneAPI<a href="https://github.com/aresgodd/Diabeto" target="_blank"><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="🍀" width="32" height="32">
 </picture></a></h2>
@@ -120,10 +120,10 @@ In summary, predicting diabetes using ML is crucial for early detection and prev
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="32" height="32">
 </picture> Value for society :</h2></div>
 <ul>
-<li> The use of a prediction model to identify individuals at risk of developing diabetes using Intel OpenAPI can have significant value for society. Diabetes is a chronic condition that affects millions of people worldwide, and early detection is critical to prevent or delay the onset of complications associated with the disease.
+<li> The use of a prediction model to identify individuals at risk of developing diabetes using Intel OneAPI can have significant value for society. 
 The benefits of early intervention in diabetes are significant. It can reduce the risk of complications such as heart disease, stroke, kidney disease, blindness, and amputations, which can have a significant impact on the quality of life of individuals and their families. Additionally, early intervention can lead to cost savings for healthcare systems by reducing the need for expensive treatments and hospitalizations.
 
-By leveraging Intel OpenAPI to develop a diabetes prediction model, healthcare professionals can improve patient outcomes and reduce healthcare costs, making it a valuable tool for society as a whole </ul>
+By leveraging Intel OneAPI to develop a diabetes prediction model, healthcare professionals can improve patient outcomes and reduce healthcare costs, making it a valuable tool for society as a whole </ul>
 <br>
   
   
@@ -144,7 +144,13 @@ By leveraging Intel OpenAPI to develop a diabetes prediction model, healthcare p
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f911/512.gif" alt="🤑" width="32" height="32">
 </picture> Value for Business :</h2></div>
 <ul>
-<li>Predicting the fertilizers, Analyzing the disease in a tap makes the life of farmers easy with minimal subscriptions would provide an acceptable return for the organization. This action adds a lot of value to the company and the business in society.</li></ul><br></div><br>
+<li>There can be significant value for businesses in using a prediction model to predict diabetes using Intel OneAPI.
+
+Firstly, diabetes is a major health concern, and businesses in the healthcare industry could benefit greatly from accurate prediction models. For example, healthcare providers could use such a model to identify patients who are at high risk of developing diabetes and provide early intervention and preventive care. This can help reduce healthcare costs and improve patient outcomes.
+
+Secondly, businesses in the insurance industry could also benefit from a diabetes prediction model. They could use the model to identify individuals who are at high risk of developing diabetes and adjust insurance premiums accordingly. This can help insurance companies reduce their risk and improve their profitability.
+
+Thirdly, businesses in the food and beverage industry could also use a diabetes prediction model to develop and market products that are specifically targeted towards individuals with diabetes. This can help these businesses expand their customer base and increase their revenue.</li></ul><br></div><br>
 
  <div>
  <h2><picture>
