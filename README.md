@@ -44,10 +44,10 @@
 
 <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="⚛🧑🏻‍🏭" width="32" height="32">
 </picture> Introduction :</h2><i>
 <ul>
-<li>Fertilizer Recommentation system for disease Prediction is a simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops. </li>
+<li> </li>
   </ul>
 <br>
 
