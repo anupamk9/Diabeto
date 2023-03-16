@@ -16,26 +16,17 @@
 </picture> </h4>
 
 <p align="center">
-<a href="https://www.ibm.com/in-en">
-<img src="https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white"> 
-</a>
+ 
    <a href="https://www.python.org/g">
     <img src="https://forthebadge.com/images/badges/made-with-python.svg" width =182 >
   </a>
 
-  <a href="https://www.ibm.com/cloud">
-      <img src="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM-Watson&logoColor=white" width=130>
-  </a>
   <a href="https://opencv.org/">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white">
    </a>
  
   <a href="https://pandas.pydata.org/">
     <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-    </a>
- 
- <a href="https://keras.io/">
-    <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
     </a>
 </p>
 
@@ -124,17 +115,7 @@ By leveraging Intel OneAPI to develop a diabetes prediction model, healthcare pr
 <br>
   
   
-  <div>
- <h2><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49a/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49a/512.gif" alt="💚" width="32" height="32">
-</picture> Value for Environment :</h2></div>
-<ul>
-<li>In the crop recommendation application, the user can provide the soil data from their side and the application will predict which crop should the user grow.
-<li>For the fertilizer recommendation application, the user can input the soil data and the type of crop they are growing, and the application will predict what the soil lacks or has excess of and will recommend improvements.</li>
-<li>For the last application, that is the plant disease prediction application, the user can input an image of a diseased plant leaf, and the application will predict what disease it is and will also give a little background about the disease and suggestions to cure it.</li>
-<li>These all are to improve the Agriculture, that’s slightly reduces the poverty, climatic condition, soil erosion etc ...</li></ul><br></div><br>
-
+ 
   <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f911/512.webp" type="image/webp">
@@ -157,10 +138,9 @@ Thirdly, businesses in the food and beverage industry could also use a diabetes 
 <ul>
 <li> Our Diabetes Prediction system is in the form of web application to provide this valuable service to the Doctors and society as a whole.</li></ul><br></div><br>
 <div align="center">
- <img src="https://user-images.githubusercontent.com/104119642/225573495-726c4c47-e7f1-49a1-84e1-0ba51cf4e743.jpg" width="900" >
+ <img src="https://user-images.githubusercontent.com/104119642/225598361-6655c2c8-6b0b-4cfb-a66c-ad860046f578.jpg" width="900" >
  </div>
  
-
 <br>
 
 <div>
@@ -176,7 +156,17 @@ Using OneAPI, developers can build predictive models for diabetes that can analy
   </li>
   </ul>
 
-  
+ <div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49a/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49a/512.gif" alt="💚" width="32" height="32">
+</picture> Code & Snippet :</h2></div>
+
+<ul>
+
+
+</ul><br></div><br>
+
   <h2> <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44d_1f3fd/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44d_1f3fd/512.gif" alt="👍" width="32" height="32">
@@ -190,7 +180,7 @@ Using OneAPI, developers can build predictive models for diabetes that can analy
 <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> 
 
-
+ 
  
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
