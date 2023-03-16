@@ -1,10 +1,11 @@
-[🤖⚙️ Machine Learning Recommentation System For Diabetes Prediction using oneAPI ⚙️🤖  (Demo Video Link ▶️ - Click Here ⬅️ )] ()
+[🤖⚙️ Machine Learning Recommentation System For Diabetes Prediction using oneAPI ⚙️🤖  (Demo Video Link ▶️ - Click Here ⬅️ )]()
 
 
 
 <a href="https://github.com/aresgodd/Diabeto">
- <img src="https://i.postimg.cc/rmFvc6Yh/fin-ibm.png">
+ <img src="https://user-images.githubusercontent.com/104119642/225562696-72eabadd-ce61-4788-aafa-82bfbe01e5c5.png">
 </a>
+
 
 <h2 align="center">Machine Learning Recommentation System For Diabetes Prediction using oneAPI<a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731" target="_blank"><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp" type="image/webp">
