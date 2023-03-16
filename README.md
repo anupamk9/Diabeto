@@ -2,7 +2,7 @@
 
 
 
-<a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731">
+<a href="https://github.com/aresgodd/Diabeto">
  <img src="https://i.postimg.cc/rmFvc6Yh/fin-ibm.png">
 </a>
 
