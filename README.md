@@ -1,5 +1,4 @@
-[🤖⚙️ Machine Learning Recommentation System For Diabetes Prediction using oneAPI ⚙️🤖  (Demo Video Link ▶️ - Click Here ⬅️ )] (https://www.youtube.com/watch?v=frnCRmCW3Fc&ab_channel=GoberTechnologies)
-[🌴 Fertilizer Recommentation System For Disease Prediction 😊   (Demo Video Link ▶️ - Click Here ⬅️ )](https://www.youtube.com/watch?v=frnCRmCW3Fc&ab_channel=GoberTechnologies)
+[🤖⚙️ Machine Learning Recommentation System For Diabetes Prediction using oneAPI ⚙️🤖  (Demo Video Link ▶️ - Click Here ⬅️ )] (https://www.youtube.com/watch?v=frnCRmCW3Fc)
 
 
 
