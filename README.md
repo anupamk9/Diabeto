@@ -105,12 +105,12 @@ In summary, predicting diabetes using ML is crucial for early detection and prev
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f979/512.gif" alt="🥹" width="32" height="32">
 </picture>	The Beneficial Users  :</h2></div>
 <ul>
-<li>  	Farmer </li>
-<li>  	Common People </li>
-<li>  	Seller </li>
-<li>  	Buyer </li>
+<li>  	Doctor </li>
+<li>  	Older Generation </li>
+<li>  	Pregnant Women </li>
+<li>  	patients </li>
 <li>  	Employees </li>
-<li>  	Industrial People </li>
+<li>  	Hospitals </li>
   </ul>
 <br>
 
@@ -120,7 +120,10 @@ In summary, predicting diabetes using ML is crucial for early detection and prev
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="32" height="32">
 </picture> Value for society :</h2></div>
 <ul>
-<li> Consumers Farming is one of the major sectors that influences a country’s economic growth. In country like India, majority of the population is dependent on agriculture for their livelihood. Many new technologies, such as Machine Learning and Deep Learning, are being implemented into agriculture so that it is easier for farmers to grow and maximize their yield </ul>
+<li> The use of a prediction model to identify individuals at risk of developing diabetes using Intel OpenAPI can have significant value for society. Diabetes is a chronic condition that affects millions of people worldwide, and early detection is critical to prevent or delay the onset of complications associated with the disease.
+The benefits of early intervention in diabetes are significant. It can reduce the risk of complications such as heart disease, stroke, kidney disease, blindness, and amputations, which can have a significant impact on the quality of life of individuals and their families. Additionally, early intervention can lead to cost savings for healthcare systems by reducing the need for expensive treatments and hospitalizations.
+
+By leveraging Intel OpenAPI to develop a diabetes prediction model, healthcare professionals can improve patient outcomes and reduce healthcare costs, making it a valuable tool for society as a whole </ul>
 <br>
   
   
