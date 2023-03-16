@@ -1,3 +1,9 @@
+![Issues](https://img.shields.io/github/issues/aresgodd/Diabeto)
+![Pull Requests](https://img.shields.io/github/issues-pr/aresgodd/Diabeto)
+![Forks](https://img.shields.io/github/forks/aresgodd/Diabeto)
+![Stars](https://img.shields.io/github/stars/aresgodd/Diabeto)
+[![License](https://img.shields.io/github/license/aresgodd/Diabeto)](https://github.com/aresgodd/Diabeto)
+
 
 <a href="https://github.com/aresgodd/Diabeto">
  <img src="https://user-images.githubusercontent.com/104119642/225565032-ba558a4a-6afe-4f63-b1d9-f4b6cca710fa.png">
@@ -163,8 +169,9 @@ Using OneAPI, developers can build predictive models for diabetes that can analy
 </picture> Code & Snippet :</h2></div>
 
 <ul>
-
-
+<img src="https://user-images.githubusercontent.com/104119642/225603015-c85de6c9-b75a-400b-8a4e-1d4dfbf51fe2.png" width="900" height="400">
+<img src="https://user-images.githubusercontent.com/104119642/225603013-3e83fe02-6dd2-4655-ac00-69f7dc06d8aa.png" width="900" height="400">
+<img src="https://user-images.githubusercontent.com/104119642/225603345-ac6461e3-804e-412d-85bd-601981a0a7e9.png" width="900" height="400">
 </ul><br></div><br>
 
   <h2> <picture>
@@ -188,7 +195,7 @@ Using OneAPI, developers can build predictive models for diabetes that can analy
 </picture> The Team:</h2></div>
 <img src="https://user-images.githubusercontent.com/104119642/225591739-0fe7dc51-086d-4ac4-941e-1a17c48ab793.png">
 
-<br></div><br>
+<br></div>
  
 <br>
  <h2>
