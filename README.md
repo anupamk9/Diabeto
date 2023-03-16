@@ -1,6 +1,6 @@
-<h5 align="center">
-[🤖⚙️ Machine Learning Recommentation System For Diabetes Prediction using oneAPI ⚙️🤖  (Demo Video Link ▶️ - Click Here ⬅️ )] (https://www.youtube.com/watch?v=frnCRmCW3Fc&ab_channel=GoberTechnologies) 
-</h5 >
+[🤖⚙️ Machine Learning Recommentation System For Diabetes Prediction using oneAPI ⚙️🤖  (Demo Video Link ▶️ - Click Here ⬅️ )] (https://www.youtube.com/watch?v=frnCRmCW3Fc&ab_channel=GoberTechnologies)
+[🌴 Fertilizer Recommentation System For Disease Prediction 😊   (Demo Video Link ▶️ - Click Here ⬅️ )](https://www.youtube.com/watch?v=frnCRmCW3Fc&ab_channel=GoberTechnologies)
+
 
 
 <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731">
