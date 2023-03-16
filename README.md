@@ -93,7 +93,7 @@ In summary, predicting diabetes using ML is crucial for early detection and prev
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_1f3fc/512.gif" alt="✌" width="32" height="32">
 </picture> Domain :</h2></div>
 <div align="center">
- <img src="https://miro.medium.com/max/828/1*TPy4pf_P1QUNVZqzngjliA.gif" width="900" >
+ <img src="https://user-images.githubusercontent.com/104119642/225571915-2eea373a-69f0-470d-9196-6c6b0e715139.gif" width="900" >
  </div>
 
 <br>
@@ -158,9 +158,12 @@ Thirdly, businesses in the food and beverage industry could also use a diabetes 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.gif" alt="💥" width="32" height="32">
 </picture> Form Factor :</h2></div>
 <ul>
-<li> Our Fertilizer Recommentation system for disease Prediction is in the form of web application to provide this valuable service to the environment and society.></li></ul><br></div><br>
+<li> Our Diabetes Prediction system is in the form of web application to provide this valuable service to the Doctors and society as a whole.</li></ul><br></div><br>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/104119642/225573495-726c4c47-e7f1-49a1-84e1-0ba51cf4e743.jpg" width="900" >
+ </div>
 
- <div>
+
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
