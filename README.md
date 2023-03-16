@@ -155,6 +155,8 @@ Thirdly, businesses in the food and beverage industry could also use a diabetes 
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f635_200d_1f4ab/512.gif" alt="😵" width="32" height="32">
 </picture> About the Tool:</h2></div>
 <ul>
+ 
+ <img src="https://user-images.githubusercontent.com/104119642/225605322-bf599380-9eea-4a8c-beb8-0b4ec467efd9.png" width="300" height="300">
 <li> Intel OneAPI is a software toolkit that enables developers to build and optimize applications for various hardware platforms, including CPUs, GPUs, and FPGAs. OneAPI includes a suite of tools, libraries, and frameworks that can be used to develop machine learning (ML) applications.
 
 Using OneAPI, developers can build predictive models for diabetes that can analyze health-related data and identify individuals who are at risk of developing diabetes. These models can use a wide range of data such as age, BMI, glucose levels, insulin levels, and other health-related features to accurately predict the likelihood of diabetes.
