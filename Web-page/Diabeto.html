@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <link rel="stylesheet" href = "Diabeto.css" type="text/css">
+        <link rel="script" href="Diabeto.js" type="text/javascript">
+    </head>
+    <body>
+        <img id="toplogo" src="https://github.com/aresgodd/Diabeto/blob/main/Images/Diabeto.png?raw=true" >
+        <div class="slider--container">
+ 
+            <img class="slider--image" src="https://github.com/aresgodd/Diabeto/blob/main/Images/health1.jpg?raw=true" alt="winter-01" />
+            <img class="slider--image" src="https://github.com/aresgodd/Diabeto/blob/main/Images/health2.jpg?raw=true" alt="winter-02" />
+            <img class="slider--image" src="https://github.com/aresgodd/Diabeto/blob/main/Images/health3.jpg?raw=true" alt="winter-03" />
+           
+          </div>
+        <form id="msform" method="post" action="process.php">
+
+          <fieldset>
+            <h2 class="fs-title">DIABETO</h2>
+            <h3 class="fs-subtitle">Fill in details for diabetes prediction</h3>
+            <input type="text" name="Pregnancies" placeholder="Number of Pregnancies" />
+            <input type="text" name="Glucose" placeholder="Glucose Level" />
+            <input type="text" name="BloodPressure" placeholder="Blood Pressure" />
+            <input type="text" name="SkinThickness" placeholder="Thickness of Skin" />
+            <input type="text" name="Insulin" placeholder="Blood Insulin level" />
+            <input type="text" name="BMI" placeholder="Body Mass Index" />
+            <input type="text" name="DiabetesPedigreeFunction" placeholder="Diabetes Pedigree Function" />
+            <input type="text" name="Age" placeholder="Age of Patient" />
+            <button class="submit" type="submit" name="login">Check now</button>
+          </fieldset>
+        </form>
+    </body>
+</html>

@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Actor&family=Caveat:wght@400;500;600&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/*basic reset*/
+* {margin: 0; padding: 0;}
+
+html {
+	height: 100%;
+	background:radial-gradient(circle, #3939aa 51%, #119eba 100%);
+    overflow-x: hidden;
+}
+
+body {
+	font-family: PT Sans;
+}
+#toplogo
+{
+  width: 300px;
+  height: 300px;
+  top:-70px;
+  left: 40px;
+  position: fixed;
+}
+/*form styles*/
+#msform {
+	width: 600px;
+	margin: 30px auto;
+	text-align: center;
+	position: relative;
+}
+#msform fieldset {
+	background: rgb(57,57,170);
+background: radial-gradient(circle, #3939aa 51%, #119eba 100%);
+	border: 0 none;
+	border-radius: 5px;
+	box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+	padding: 20px 30px;
+	box-sizing: border-box;
+	width: 80%;
+	margin: 0 10%;
+	
+	/*stacking fieldsets above each other*/
+	position: relative;
+}
+/*Hide all except first fieldset*/
+#msform fieldset:not(:first-of-type) {
+	display: none;
+}
+/*inputs*/
+#msform input, #msform textarea {
+	padding: 15px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	margin-bottom: 10px;
+	width: 100%;
+	box-sizing: border-box;
+	font-family: PT Sans;
+	color: #2C3E50;
+	font-size: 14px;
+}
+/*buttons*/
+#msform .action-button {
+	width: 100px;
+	background: #27AE60;
+	font-weight: bold;
+	color: white;
+	border: 0 none;
+	border-radius: 1px;
+	cursor: pointer;
+	padding: 10px;
+	margin: 10px 5px;
+  text-decoration: none;
+  font-size: 14px;
+}
+#msform .action-button:hover, #msform .action-button:focus {
+	box-shadow: 0 0 0 2px white, 0 0 0 3px #27AE60;
+}
+/*headings*/
+.fs-title {
+	font-size: 25px;
+    font-weight: bold;
+	text-transform: uppercase;
+	color: white;
+	margin-bottom: 10px;
+}
+.fs-subtitle {
+	font-weight: normal;
+	font-size: 14px;
+	color: #fff;
+	margin-bottom: 20px;
+    font-family: PT Sans;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    width: 220px;
+    height: 40px;
+    border-radius: 30px;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  
+  .submit {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: PT Sans;
+    background: -webkit-linear-gradient(left, #3D2C8D, rgba(0,212,255,1));
+  }
+  
+  .submit:hover {
+    background: -webkit-linear-gradient(left, #2634b3, #3D2C8D);
+  }
+
+  .slider--container {
+    position: absolute; /* "relative", so that h1 and images can be set absolutely */
+    height: 100%; /* Adjust the height to your needs here */
+    width: 100vw; /* Adjust the width to your needs here */
+    margin: 0;
+    overflow: hidden;
+    border-radius: .125rem;
+    z-index:-1;
+    box-shadow: 0 0 .1rem .125rem rgba(0, 0, 0, 0.25);
+    top : -0%;
+  }
+
+  .slider--image {
+    position: absolute;
+    filter: blur(5px);
+    z-index: 1;
+    left:0;
+    top:0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    animation: 45s ease-in-out infinite;
+  } 
+   /* Name of animations and selection of images */
+  .slider--image:nth-of-type(1) {
+    animation-name: slide-01;
+  }
+  .slider--image:nth-of-type(2) {
+    animation-name: slide-02;
+  }
+  .slider--image:nth-of-type(3) {
+    animation-name: slide-03;
+  }
+  
+  /* Images are overlaid and visible or invisible due to different transparency */
+  /* Moving the images with transform: scale & translate */
+    /* Styles for webkit browsers */
+  @-webkit-keyframes slide-01 {
+    0%  { opacity:1; -webkit-transform: scale(1.4) translate(0, 0);}
+    16%  {opacity:1; -webkit-transform: scale(1.2) translate(-20px, -10px);}
+    33%  {opacity:0; -webkit-transform: scale(1.4) translate(0, 0);}
+    50%  {opacity:0;}
+    67%  {opacity:0;}
+    84%  {opacity:0;}
+    100%  {opacity:1; -webkit-transform: scale(1.4) translate(0, 0);}
+  }
+  @-webkit-keyframes slide-02 {
+    0%  { opacity:0;}
+    16%  {opacity:0; -webkit-transform: scale(1.2) translate(-20px, -10px);}
+    33%  {opacity:1; -webkit-transform: scale(1.4) translate(0, 0);}
+    50%  {opacity:1; -webkit-transform: scale(1.2) translate(-20px, 10px);}
+    67%  {opacity:0; -webkit-transform: scale(1.4) translate(0, 0);}
+    84%  {opacity:0;}
+    100%  {opacity:0;}
+  }
+  @-webkit-keyframes slide-03 {
+    0%  { opacity:0;}
+    16%  {opacity:0;}
+    33%  {opacity:0;}
+    50%  {opacity:0; -webkit-transform: scale(1.4) translate(0, 0);}
+    67%  {opacity:1; -webkit-transform: scale(1.4) translate(-20px, 10px);}
+    84%  {opacity:1; -webkit-transform: scale(1.2) translate(20px, -10px);}
+    100%  {opacity:0; -webkit-transform: scale(1.4) translate(0, 0);}
+  }
+  
+    /* Styles for all other browsers */
+  @keyframes slide-01 {
+    0%  { opacity:1; transform: scale(1.4) translate(0, 0);}
+    16%  {opacity:1; transform: scale(1.2) translate(-20px, -10px);}
+    33%  {opacity:0; transform: scale(1.4) translate(0, 0);}
+    50%  {opacity:0;}
+    67%  {opacity:0;}
+    84%  {opacity:0;}
+    100%  {opacity:1; transform: scale(1.4) translate(0, 0);}
+  }
+  @keyframes slide-02 {
+    0%  { opacity:0;}
+    16%  {opacity:0; transform: scale(1.2) translate(-20px, -10px);}
+    33%  {opacity:1; transform: scale(1.4) translate(0, 0);}
+    50%  {opacity:1; transform: scale(1.2) translate(-20px, 10px);}
+    67%  {opacity:0; transform: scale(1.4) translate(0, 0);}
+    84%  {opacity:0;}
+    100%  {opacity:0;}
+  }
+  @keyframes slide-03 {
+    0%  { opacity:0;}
+    16%  {opacity:0;}
+    33%  {opacity:0;}
+    50%  {opacity:0; transform: scale(1.4) translate(0, 0);}
+    67%  {opacity:1; transform: scale(1.4) translate(-20px, 10px);}
+    84%  {opacity:1; transform: scale(1.2) translate(20px, -10px);}
+    100%  {opacity:0; transform: scale(1.4) translate(0, 0);}
+  }
+
+  .error-message {
+    text-align: center;
+}
+  
