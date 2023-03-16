@@ -1,17 +1,17 @@
-[🌴 Fertilizer Recommentation System For Disease Prediction 😊   (Demo Video Link ▶️ - Click Here ⬅️ )](https://www.youtube.com/watch?v=frnCRmCW3Fc&ab_channel=GoberTechnologies)
+[🌴 Machine Learning Recommentation System For Diabetes Prediction using oneAPI 😊   (Demo Video Link ▶️ - Click Here ⬅️ )](https://www.youtube.com/watch?v=frnCRmCW3Fc&ab_channel=GoberTechnologies)
 
 
 <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731">
  <img src="https://i.postimg.cc/rmFvc6Yh/fin-ibm.png">
 </a>
 
-<h2 align="center">Disease Prediction system for Diabetes <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731" target="_blank"><picture>
+<h2 align="center">Machine Learning Recommentation System For Diabetes Prediction using oneAPI<a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731" target="_blank"><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="🍀" width="32" height="32">
 </picture></a></h2>
 
 
-<h4 align="center">A Revolutionary Project for the Agricultural Growth 🌷 Made with <picture>
+<h4 align="center">A Revolutionary Project for Diabetes Prediction using oneAPI 🌷 Made with <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="20" height="20">
 </picture> </h4>
